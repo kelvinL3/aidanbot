@@ -1,1 +1,3 @@
 # aidanbot
+
+supports balancing players
